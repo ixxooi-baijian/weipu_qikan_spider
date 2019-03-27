@@ -1,5 +1,5 @@
 # weipu_qikan_spider
-维普期刊数据爬取爬虫
+# 维普期刊数据爬取爬虫
 
 # 代码介绍
 domain_id.py  获取文章id
