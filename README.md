@@ -1,4 +1,4 @@
-# python3维普期刊数据爬取爬虫
+# python3维普期刊文章数据爬取爬虫
 ![weipu](https://github.com/ixxooi-baijian/img/blob/master/weipu.jpg)
 # 代码介绍
 domain_id.py  获取文章id
